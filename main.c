@@ -5,7 +5,7 @@
 This program made by Omri
 This program implements interpreter for ASM and translate the code to 32Base - Muzar.
 This file contain the global declaration on variable and reference for parsing the files and creating the output.
-The program receive the input from the command line arguments which the suffix of the file - just the name.
+The program receive the input from the command line arguments without the suffix of the file - just the name.
 
 Note: the program convert the output to 2 digit's 32 Muzar base. if you would like to insert input that converts to bigger digit - edit the MUZAR_ARRAY_SIZE define in project.h as you would like.
 */
