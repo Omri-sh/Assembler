@@ -48,9 +48,9 @@ int main(int argc, char *argv[])
 {
 	int argcount = 1;
 	printf("---Assembler---\n"); 
-	if(argc == 1) /*check if there is not args*/
+	if(argc == 1) /*check if have no args*/
 		printf("No file has been entered.\n");
-	else /*if there is args*/
+	else /*if there are args*/
 	{
 		while(--argc > 0) /*running on all the args*/
 		{
