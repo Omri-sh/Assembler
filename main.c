@@ -2,7 +2,7 @@
 #include "global.h"
 
 /*
-This program made by Omri Shkedi, ID: 308523620
+This program made by Omri
 This program implements interpreter for ASM and translate the code to 32Base - Muzar.
 This file contain the global declaration on variable and reference for parsing the files and creating the output.
 The program receive the input from the command line arguments which the suffix of the file - just the name.
